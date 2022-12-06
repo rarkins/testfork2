@@ -1,2 +1,2 @@
-FROM node:12.20.0
+FROM node:16.10.0
 RUN something else
